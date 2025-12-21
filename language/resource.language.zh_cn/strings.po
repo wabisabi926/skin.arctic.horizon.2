@@ -266,7 +266,7 @@ msgstr "阴影"
 #: /shortcuts/overrides.xml
 msgctxt "#31049"
 msgid "Default Widgets"
-msgstr "默认小部件"
+msgstr "默认小组件"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31050"
@@ -461,12 +461,12 @@ msgstr "自定义电源菜单"
 #: /1080i/SkinSettings.xml
 msgctxt "#31087"
 msgid "Menus / Widgets"
-msgstr "菜单/小部件"
+msgstr "菜单/小组件"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31088"
 msgid "Menus and widgets"
-msgstr "菜单和小部件"
+msgstr "菜单和小组件"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31089"
@@ -536,17 +536,17 @@ msgstr "图片来源"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31102"
 msgid "Fullscreen widget"
-msgstr "全屏小部件"
+msgstr "全屏小组件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31103"
 msgid "Widgets"
-msgstr "小部件"
+msgstr "小组件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31104"
 msgid "Choose widget"
-msgstr "选择小部件"
+msgstr "选择小组件"
 
 #: /shortcuts/template.xml
 msgctxt "#31105"
@@ -896,7 +896,7 @@ msgstr "大海报行"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31173"
 msgid "widget"
-msgstr "小部件"
+msgstr "小组件"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31174"
@@ -1066,7 +1066,7 @@ msgstr "当不可用或更新时，评分显示占位符"
 #: /1080i/SkinSettings.xml
 msgctxt "#31207"
 msgid "Codec info with full expanded widgets"
-msgstr "使用完整扩展小部件的编解码器信息"
+msgstr "使用完整扩展小组件的编解码器信息"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31208"
@@ -1176,12 +1176,12 @@ msgstr "自定义背景"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31229"
 msgid "Submenu widget"
-msgstr "子菜单小部件"
+msgstr "子菜单小组件"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31230"
 msgid "Reset all menus and widgets to defaults"
-msgstr "将所有菜单和小部件重置为默认值"
+msgstr "将所有菜单和小组件重置为默认值"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31231"
@@ -1266,7 +1266,7 @@ msgstr "自动滚动文本框"
 #: /1080i/SkinSettings.xml
 msgctxt "#31247"
 msgid "Opaque texture for focused PVR widgets"
-msgstr "对于聚焦的 PVR 小部件使用不透明纹理"
+msgstr "对于聚焦的 PVR 小组件使用不透明纹理"
 
 #: /1080i/Custom_1198_Startup.xml
 msgctxt "#31248"
@@ -1301,7 +1301,7 @@ msgstr "显示更多"
 #: /1080i/SkinSettings.xml
 msgctxt "#31254"
 msgid "Limited widgets have \"more items\" object"
-msgstr "功能受限的小部件包含“更多条目”对象"
+msgstr "功能受限的小组件包含“更多条目”对象"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31255"
@@ -1401,7 +1401,7 @@ msgstr "在大横向展示视图类型中显示文本标签"
 #: /1080i/SkinSettings.xml
 msgctxt "#31274"
 msgid "Expand full info widgets to include header and footer"
-msgstr "扩展完整的信息小部件以包括页眉和页脚"
+msgstr "扩展完整的信息小组件以包括页眉和页脚"
 
 #: /1080i/Views_Wall.xml
 msgctxt "#31275"
@@ -1657,7 +1657,7 @@ msgstr "背景"
 #: /1080i/Includes_Items.xml
 msgctxt "#31325"
 msgid "Expanded widget artwork"
-msgstr "扩展小部件艺术图"
+msgstr "扩展小组件艺术图"
 
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31326"
@@ -1682,7 +1682,7 @@ msgstr "Hub - 电视剧 (媒体库)"
 #: /1080i/SkinSettings.xml
 msgctxt "#31330"
 msgid "Widget end row action"
-msgstr "小部件结束行动"
+msgstr "小组件结束行动"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31331"
@@ -1777,7 +1777,7 @@ msgstr "按“下键”可查看频道电子节目指南"
 #: /1080i/SkinSettings.xml
 msgctxt "#31349"
 msgid "Swap info button for options on fullscreen fanart widgets"
-msgstr "在全屏同人画小部件上交换信息按钮和选项"
+msgstr "在全屏同人画小组件上交换信息按钮和选项"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31350"
@@ -1812,7 +1812,7 @@ msgstr "从 EPG 返回"
 #: /1080i/SkinSettings.xml
 msgctxt "#31356"
 msgid "Expanded widget style"
-msgstr "扩展小部件样式"
+msgstr "扩展小组件样式"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31357"
@@ -1852,7 +1852,7 @@ msgstr "播放列表媒体信息"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31364"
 msgid "Hub fullscreen widget"
-msgstr "Hub 全屏小部件"
+msgstr "Hub 全屏小组件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31365"
@@ -1862,7 +1862,7 @@ msgstr "Hub 子菜单节点"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31366"
 msgid "Hub widget nodes"
-msgstr "Hub 小部件节点"
+msgstr "Hub 小组件节点"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31367"
@@ -1917,7 +1917,7 @@ msgstr "默认菜单位置（从0开始）"
 #: /1080i/SkinSettings.xml
 msgctxt "#31377"
 msgid "Standard widgets have header furniture and navigation hints"
-msgstr "标准小部件有标题和导航提示"
+msgstr "标准小组件有标题和导航提示"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31378"
@@ -1938,7 +1938,7 @@ msgstr "缩减标题与情节简介宽度"
 #: /shortcuts/overrides.xml
 msgctxt "#31381"
 msgid "Weather - Only available as fullscreen widget"
-msgstr "天气 - 仅作为全屏小部件提供"
+msgstr "天气 - 仅作为全屏小组件提供"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31382"
