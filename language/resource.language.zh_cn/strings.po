@@ -671,7 +671,7 @@ msgstr "大海报墙"
 #: /1080i/script-upnext-upnext.xml
 msgctxt "#31129"
 msgid "Up next in"
-msgstr "接下来"
+msgstr "播放下个"
 
 #: /1080i/script-upnext-upnext.xml
 msgctxt "#31130"
@@ -1011,7 +1011,7 @@ msgstr "用户图片"
 #: /1080i/Custom_1120_Recommend.xml
 msgctxt "#31196"
 msgid "Up Next"
-msgstr "下一个"
+msgstr "下个播放"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31197"
