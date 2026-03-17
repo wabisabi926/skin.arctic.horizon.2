@@ -75,7 +75,7 @@ msgstr "透明艺术图"
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31011"
 msgid "Small Fanart"
-msgstr "小背同人画"
+msgstr "小同人画"
 
 # 主视觉艺术
 #: /1080i/Custom_Backgrounds_1112.xml
