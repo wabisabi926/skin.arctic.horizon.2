@@ -7,14 +7,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: physton <physton@163.com>\n"
+"Last-Translator: wabisabi926\n"
 "Language-Team: \n"
-"Language: zh_cn\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #: /1080i/SettingsSystemInfo.xml
 msgctxt "#31000"
@@ -66,20 +66,22 @@ msgctxt "#31009"
 msgid "Blur"
 msgstr "模糊"
 
+# 透明特效艺术
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31010"
 msgid "ClearArt"
-msgstr "清晰海报"
+msgstr "透明艺术图"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31011"
 msgid "Small Fanart"
-msgstr "小型同人画"
+msgstr "小同人画"
 
+# 主视觉艺术
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31012"
 msgid "Keyart"
-msgstr "主图"
+msgstr "主视觉艺术图"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31013"
@@ -89,7 +91,7 @@ msgstr "文本"
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31014"
 msgid "Clearlogo"
-msgstr "清晰标志"
+msgstr "透明徽标"
 
 #: /1080i/Items.xml
 msgctxt "#31015"
@@ -99,7 +101,7 @@ msgstr "顺序"
 #: /1080i/Items.xml
 msgctxt "#31016"
 msgid "Sort by"
-msgstr "排序方式"
+msgstr "排序"
 
 #: /1080i/DialogVideoInfo.xml
 msgctxt "#31017"
@@ -109,12 +111,12 @@ msgstr "文件详情"
 #: /1080i/DialogVideoInfo.xml
 msgctxt "#31018"
 msgid "Recommendations"
-msgstr "推荐"
+msgstr "建议"
 
 #: /1080i/DialogVideoInfo.xml
 msgctxt "#31019"
 msgid "Crew"
-msgstr "制作组"
+msgstr "剧组"
 
 #: /1080i/DialogVideoInfo.xml
 msgctxt "#31020"
@@ -124,7 +126,7 @@ msgstr "列表"
 #: /1080i/DialogVideoInfo.xml
 msgctxt "#31021"
 msgid "Similar"
-msgstr "相似"
+msgstr "类似"
 
 #: /1080i/Dialogs.xml
 msgctxt "#31022"
@@ -139,12 +141,12 @@ msgstr "加载中"
 #: /1080i/Labels.xml
 msgctxt "#31024"
 msgid "Critics Consensus"
-msgstr "评论共识"
+msgstr "影评人综合评分"
 
 #: /1080i/DialogAddonInfo.xml
 msgctxt "#31025"
 msgid "Add-on ID"
-msgstr "插件ID"
+msgstr "插件 ID"
 
 #: /1080i/DialogAddonInfo.xml
 msgctxt "#31026"
@@ -159,7 +161,7 @@ msgstr "未安装"
 #: /1080i/Dialogs.xml
 msgctxt "#31028"
 msgid "Outline"
-msgstr "概要"
+msgstr "概述"
 
 #: /1080i/Items.xml
 msgctxt "#31029"
@@ -184,12 +186,12 @@ msgstr "过滤"
 #: /1080i/Labels.xml
 msgctxt "#31033"
 msgid "People"
-msgstr "人物"
+msgstr "人员"
 
 #: /1080i/Labels.xml
 msgctxt "#31034"
 msgid "Cast member"
-msgstr "演员"
+msgstr "演职人员"
 
 #: /1080i/Labels.xml
 msgctxt "#31035"
@@ -214,7 +216,7 @@ msgstr "性能"
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31039"
 msgid "Background style"
-msgstr "背景样式"
+msgstr "背景风格"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31040"
@@ -224,7 +226,7 @@ msgstr "前景"
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31041"
 msgid "FlixArt"
-msgstr "Flix艺术"
+msgstr "影视艺术图"
 
 #: /1080i/Labels.xml
 msgctxt "#31042"
@@ -264,7 +266,7 @@ msgstr "阴影"
 #: /shortcuts/overrides.xml
 msgctxt "#31049"
 msgid "Default Widgets"
-msgstr "默认小部件"
+msgstr "默认小组件"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31050"
@@ -284,7 +286,7 @@ msgstr "预设"
 #: /1080i/Labels.xml
 msgctxt "#31053"
 msgid "Profile"
-msgstr "个人资料"
+msgstr "简介"
 
 #: /1080i/Labels.xml
 msgctxt "#31054"
@@ -294,32 +296,32 @@ msgstr "喜欢"
 #: /1080i/Labels.xml
 msgctxt "#31055"
 msgid "out of"
-msgstr "共"
+msgstr "出于"
 
 #: /1080i/Labels.xml
 msgctxt "#31056"
 msgid "critics"
-msgstr "评论家"
+msgstr "影评人"
 
 #: /1080i/Objects.xml
 msgctxt "#31057"
 msgid "Years Old"
-msgstr "年"
+msgstr "年份"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31058"
 msgid "Solid"
-msgstr "纯色的"
+msgstr "纯色"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31059"
 msgid "Split"
-msgstr "分割线"
+msgstr "分屏"
 
 #: /1080i/Custom_Recommend_1120.xml
 msgctxt "#31060"
 msgid "Premiered in"
-msgstr "首映时间"
+msgstr "首映"
 
 #: /1080i/Custom_Recommend_1120.xml
 msgctxt "#31061"
@@ -344,7 +346,7 @@ msgstr "奖项"
 #: /1080i/DialogVideoInfo.xml
 msgctxt "#31065"
 msgid "Creator"
-msgstr "创建者"
+msgstr "创作者"
 
 #: /1080i/Custom_Recommend_1120.xml
 msgctxt "#31066"
@@ -418,7 +420,8 @@ msgid ""
 "you have an alternative method of accessing settings before you remove this "
 "shortcut."
 msgstr ""
-"确定要删除设置快捷方式吗？[CR]在删除此快捷方式之前，请确保有其他访问设置的方法。"
+"确定要删除设置快捷方式吗？[CR]在删除此快捷方式之前，请确保有其他访问设置的方"
+"法。"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31080"
@@ -458,12 +461,12 @@ msgstr "自定义电源菜单"
 #: /1080i/SkinSettings.xml
 msgctxt "#31087"
 msgid "Menus / Widgets"
-msgstr "菜单/小部件"
+msgstr "菜单/小组件"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31088"
 msgid "Menus and widgets"
-msgstr "菜单和小部件"
+msgstr "菜单和小组件"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31089"
@@ -513,7 +516,7 @@ msgstr "分组录制"
 #: /shortcuts/overrides.xml
 msgctxt "#31098"
 msgid "Grouped deleted recordings"
-msgstr "分组删除记录"
+msgstr "分组删除录制"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31099"
@@ -533,22 +536,22 @@ msgstr "图片来源"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31102"
 msgid "Fullscreen widget"
-msgstr "全屏小部件"
+msgstr "全屏小组件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31103"
 msgid "Widgets"
-msgstr "小部件"
+msgstr "小组件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31104"
 msgid "Choose widget"
-msgstr "选择小部件"
+msgstr "选择小组件"
 
 #: /shortcuts/template.xml
 msgctxt "#31105"
 msgid "Spotlight"
-msgstr "聚焦"
+msgstr "精选推荐"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31106"
@@ -563,12 +566,12 @@ msgstr "简单"
 #: /1080i/Custom_1114_Search.xml
 msgctxt "#31108"
 msgid "Collections"
-msgstr "收藏"
+msgstr "合集"
 
 #: /1080i/Custom_1114_Search.xml
 msgctxt "#31109"
 msgid "Tagged"
-msgstr "标记的"
+msgstr "标记"
 
 #: /1080i/Info.xml
 msgctxt "#31110"
@@ -583,12 +586,12 @@ msgstr "海报行"
 #: /1080i/Views_Row.xml
 msgctxt "#31112"
 msgid "Landscape Row"
-msgstr "横屏行"
+msgstr "横向展示行"
 
 #: /1080i/Views_Row.xml
 msgctxt "#31113"
 msgid "Square Row"
-msgstr "正方形行"
+msgstr "方形行"
 
 #: /1080i/Items.xml
 msgctxt "#31114"
@@ -603,12 +606,12 @@ msgstr "海报墙"
 #: /1080i/Views_Wall.xml
 msgctxt "#31116"
 msgid "Landscape Wall"
-msgstr "横屏墙"
+msgstr "横向展示墙"
 
 #: /1080i/Views_Wall.xml
 msgctxt "#31117"
 msgid "Square Wall"
-msgstr "正方形墙"
+msgstr "方形墙"
 
 #: /1080i/Views_Combined.xml
 msgctxt "#31118"
@@ -618,22 +621,22 @@ msgstr "海报组合"
 #: /1080i/Views_Combined.xml
 msgctxt "#31119"
 msgid "Landscape Combined"
-msgstr "横屏组合"
+msgstr "横向展示组合"
 
 #: /1080i/Views_Combined.xml
 msgctxt "#31120"
 msgid "Square Combined"
-msgstr "正方形组合"
+msgstr "方形组合"
 
 #: /1080i/Views_List.xml
 msgctxt "#31121"
 msgid "Square List"
-msgstr "正方形列表"
+msgstr "方形列表"
 
 #: /1080i/Views_List.xml
 msgctxt "#31122"
 msgid "Landscape List"
-msgstr "横屏列表"
+msgstr "横向展示列表"
 
 #: /1080i/Views_List.xml
 msgctxt "#31123"
@@ -643,7 +646,7 @@ msgstr "信息列表"
 #: /1080i/Custom_1111_Colours.xml
 msgctxt "#31124"
 msgid "Indicator"
-msgstr "指示器"
+msgstr "状态标识"
 
 #: /1080i/Custom_1111_Colours.xml
 msgctxt "#31125"
@@ -668,7 +671,7 @@ msgstr "大海报墙"
 #: /1080i/script-upnext-upnext.xml
 msgctxt "#31129"
 msgid "Up next in"
-msgstr "接下来"
+msgstr "播放下个"
 
 #: /1080i/script-upnext-upnext.xml
 msgctxt "#31130"
@@ -692,13 +695,13 @@ msgid ""
 "dynamic and include all media items from your database which apply to your "
 "chosen rules."
 msgstr ""
-"设置类型并添加规则以创建智能播放列表。"
-"这些播放列表是动态的，包含所有符合您选择的规则的媒体项目。"
+"设置类型并添加规则来创建智能播放列表。这些播放列表是动态的，包括数据库中适用"
+"于您选择的规则的所有媒体项目。"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31134"
 msgid "Expand information"
-msgstr "展开信息"
+msgstr "扩展信息"
 
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31135"
@@ -733,7 +736,7 @@ msgstr "迈阿密电子风色"
 #: /1080i/Custom_1115_PresetColors.xml
 msgctxt "#31141"
 msgid "Plain Monochrome"
-msgstr "纯色单色"
+msgstr "单色"
 
 #: /1080i/Info.xml
 msgctxt "#31142"
@@ -743,12 +746,12 @@ msgstr "总时长"
 #: /1080i/Views_List.xml
 msgctxt "#31143"
 msgid "Square Infolist"
-msgstr "正方形信息列表"
+msgstr "方形信息列表"
 
 #: /1080i/Views_List.xml
 msgctxt "#31144"
 msgid "Landscape Infolist"
-msgstr "横向信息列表"
+msgstr "横向展示信息列表"
 
 #: /1080i/Custom_1198_Startup.xml
 msgctxt "#31145"
@@ -768,17 +771,17 @@ msgstr "已播出"
 #: /1080i/Views_Combined.xml
 msgctxt "#31148"
 msgid "Big Landscape Combined"
-msgstr "大型组合横幅"
+msgstr "大横向展示组合"
 
 #: /1080i/Views_Row.xml
 msgctxt "#31149"
 msgid "Big Landscape Row"
-msgstr "大型横幅展示"
+msgstr "大横向展示行"
 
 #: /1080i/Views_Wall.xml
 msgctxt "#31150"
 msgid "Big Landscape Wall"
-msgstr "大型墙式横幅"
+msgstr "大横向展示墙"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31151"
@@ -868,22 +871,22 @@ msgstr "预期的"
 #: /shortcuts/searchmenu.DATA.xml
 msgctxt "#31168"
 msgid "TMDb Movies"
-msgstr "TMDb电影"
+msgstr "TMDb 电影"
 
 #: /shortcuts/searchmenu.DATA.xml
 msgctxt "#31169"
 msgid "TMDb TV Shows"
-msgstr "TMDb电视节目"
+msgstr "TMDb 电视节目"
 
 #: /shortcuts/searchmenu.DATA.xml
 msgctxt "#31170"
 msgid "TMDb Collections"
-msgstr "TMDb收藏"
+msgstr "TMDB 合集"
 
 #: /shortcuts/searchmenu.DATA.xml
 msgctxt "#31171"
 msgid "TMDb People"
-msgstr "TMDb人物"
+msgstr "TMDb 人物"
 
 #: /1080i/Views_Row.xml
 msgctxt "#31172"
@@ -893,7 +896,7 @@ msgstr "大海报行"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31173"
 msgid "widget"
-msgstr "小部件"
+msgstr "小组件"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31174"
@@ -908,7 +911,7 @@ msgstr "菜单样式"
 #: /1080i/SkinSettings.xml
 msgctxt "#31176"
 msgid "Simple background"
-msgstr "简单的背景"
+msgstr "简单背景"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31177"
@@ -928,7 +931,7 @@ msgstr "从主菜单按上键"
 #: /1080i/SkinSettings.xml
 msgctxt "#31180"
 msgid "Furniture"
-msgstr "页面装饰"
+msgstr "界面装饰"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31181"
@@ -948,7 +951,7 @@ msgstr "标签"
 #: /1080i/Labels.xml
 msgctxt "#31184"
 msgid "Wall"
-msgstr "墙壁"
+msgstr "墙"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31185"
@@ -973,12 +976,12 @@ msgstr "限制"
 #: /1080i/SkinSettings.xml
 msgctxt "#31189"
 msgid "Autoclose OSD after X seconds"
-msgstr "X秒后自动关闭OSD"
+msgstr "X 秒后自动关闭 OSD"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31190"
 msgid "EPGEventIcon for PVR fanart"
-msgstr "使用PVR同人画作为EPG事件图标"
+msgstr "使用 PVR 背景图作为 EPG 事件图标"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31191"
@@ -998,27 +1001,27 @@ msgstr "方形播放列表"
 #: /1080i/SkinSettings.xml
 msgctxt "#31194"
 msgid "Trailer button plays windowed"
-msgstr "预告片按钮播放窗口模式"
+msgstr "点击预告片按钮后以窗口模式播放"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31195"
 msgid "Profile image"
-msgstr "个人资料图片"
+msgstr "用户图片"
 
 #: /1080i/Custom_1120_Recommend.xml
 msgctxt "#31196"
 msgid "Up Next"
-msgstr "接下来"
+msgstr "下个播放"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31197"
 msgid "Customise recommendations"
-msgstr "定制推荐内容"
+msgstr "自定义推荐内容"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31198"
 msgid "Customise ratings"
-msgstr "定制评分"
+msgstr "自定义评分"
 
 #: /1080i/Items.xml
 msgctxt "#31199"
@@ -1033,7 +1036,7 @@ msgstr "用户"
 #: /1080i/Items.xml
 msgctxt "#31201"
 msgid "Critic"
-msgstr "评论家"
+msgstr "影评人"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31202"
@@ -1043,17 +1046,17 @@ msgstr "评分"
 #: /1080i/SkinSettings.xml
 msgctxt "#31203"
 msgid "Customise"
-msgstr "定制"
+msgstr "自定义"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31204"
 msgid "Background video"
-msgstr "背景视频"
+msgstr "视频在后台持续播放"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31205"
 msgid "Press down from row view scrollbar opens"
-msgstr "从行视图滚动条按下打开"
+msgstr "在列表视图中，按下滚动条区域的“下键”会打开"
 
 #: /1080i/Items.xml
 msgctxt "#31206"
@@ -1063,7 +1066,7 @@ msgstr "当不可用或更新时，评分显示占位符"
 #: /1080i/SkinSettings.xml
 msgctxt "#31207"
 msgid "Codec info with full expanded widgets"
-msgstr "使用完整扩展小部件的编解码器信息"
+msgstr "使用完整扩展小组件的编解码器信息"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31208"
@@ -1158,7 +1161,7 @@ msgstr "导演"
 #: /1080i/SkinSettings.xml
 msgctxt "#31226"
 msgid "Extra fanart"
-msgstr "额外的同人画"
+msgstr "额外同人画"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31227"
@@ -1173,12 +1176,12 @@ msgstr "自定义背景"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31229"
 msgid "Submenu widget"
-msgstr "子菜单小部件"
+msgstr "子菜单小组件"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31230"
 msgid "Reset all menus and widgets to defaults"
-msgstr "将所有菜单和小部件重置为默认值"
+msgstr "将所有菜单和小组件重置为默认值"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31231"
@@ -1188,7 +1191,7 @@ msgstr "自动适应宽度"
 #: /1080i/SkinSettings.xml
 msgctxt "#31232"
 msgid "TMDbHelper look-ups for PVR windows"
-msgstr "PVR窗口的TMDbHelper样式查询"
+msgstr "PVR 窗口的 TMDbHelper 样式查询"
 
 #: /1080i/Labels.xml
 msgctxt "#31233"
@@ -1208,17 +1211,17 @@ msgstr "指示器"
 #: /1080i/Items.xml
 msgctxt "#31236"
 msgid "Collection"
-msgstr "集合"
+msgstr "合集"
 
 #: /1080i/Items.xml
 msgctxt "#31237"
 msgid "Progress"
-msgstr "进度"
+msgstr "播放进度"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31238"
 msgid "Header"
-msgstr "页头"
+msgstr "页眉"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31239"
@@ -1263,7 +1266,7 @@ msgstr "自动滚动文本框"
 #: /1080i/SkinSettings.xml
 msgctxt "#31247"
 msgid "Opaque texture for focused PVR widgets"
-msgstr "对于聚焦的PVR小部件使用不透明纹理"
+msgstr "对于聚焦的 PVR 小组件使用不透明纹理"
 
 #: /1080i/Custom_1198_Startup.xml
 msgctxt "#31248"
@@ -1273,7 +1276,7 @@ msgstr "构建包含"
 #: /1080i/Custom_1198_Startup.xml
 msgctxt "#31249"
 msgid "Waiting for PVR"
-msgstr "等待PVR"
+msgstr "等待 PVR"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31250"
@@ -1288,7 +1291,7 @@ msgstr "使用滑动条显示解码器"
 #: /1080i/Items.xml
 msgctxt "#31252"
 msgid "Catch-up"
-msgstr "追赶"
+msgstr "追剧"
 
 #: /shortcuts/template.xml
 msgctxt "#31253"
@@ -1297,13 +1300,13 @@ msgstr "显示更多"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31254"
-msgid "Limited widgets have "more items" object"
-msgstr "有“更多选项”物体的有限小部件"
+msgid "Limited widgets have \"more items\" object"
+msgstr "功能受限的小组件包含“更多条目”对象"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31255"
 msgid "Customise startup image"
-msgstr "自定义启动图片"
+msgstr "自定义启动图像"
 
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31256"
@@ -1343,7 +1346,7 @@ msgstr "赫兹"
 #: /1080i/DialogPlayerProcessInfo.xml
 msgctxt "#31263"
 msgid "bits"
-msgstr "位"
+msgstr "位深"
 
 #: /1080i/Dialogs.xml
 msgctxt "#31264"
@@ -1393,12 +1396,12 @@ msgstr "延迟后自动在大海报行上显示信息"
 #: /1080i/SkinSettings.xml
 msgctxt "#31273"
 msgid "Text labels on big landscape viewtypes"
-msgstr "在大型横向视图类型中显示文本标签"
+msgstr "在大横向展示视图类型中显示文本标签"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31274"
 msgid "Expand full info widgets to include header and footer"
-msgstr "扩展完整的信息小部件以包括页眉和页脚"
+msgstr "扩展完整的信息小组件以包括页眉和页脚"
 
 #: /1080i/Views_Wall.xml
 msgctxt "#31275"
@@ -1433,7 +1436,7 @@ msgstr "媒体信息"
 #: /1080i/SkinSettings.xml
 msgctxt "#31281"
 msgid "Invert PVR progress line colour"
-msgstr "反转PVR进度条颜色"
+msgstr "反转 PVR 进度条颜色"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31282"
@@ -1468,12 +1471,12 @@ msgstr "提名"
 #: /1080i/Includes_Items.xml
 msgctxt "#31288"
 msgid "Use larger flixart size"
-msgstr "使用更大的FlixArt尺寸"
+msgstr "使用更大的影视艺术作品尺寸"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31289"
 msgid "Use local library info for recommendations"
-msgstr "使用本地库信息进行推荐"
+msgstr "使用本地媒体库信息生成推荐"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31290"
@@ -1493,22 +1496,22 @@ msgstr "不作处理"
 #: /1080i/VideoOSD.xml
 msgctxt "#31293"
 msgid "Press down for cast and more info"
-msgstr "按下以查看演员和更多信息"
+msgstr "按“下键”可获取演员和更多信息"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31294"
 msgid "Press down for bookmarks and chapters"
-msgstr "按下以查看书签和章节"
+msgstr "按“下键”可获取书签和章节"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31295"
 msgid "Press down for channels"
-msgstr "按下以查看频道"
+msgstr "按“下键”可查看频道"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31296"
 msgid "Press down for playlist"
-msgstr "按下以查看播放列表"
+msgstr "按“下键”可查看播放列表"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31297"
@@ -1518,7 +1521,7 @@ msgstr "最小化仅图标菜单样式"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31298"
 msgid "Press down for movies and tv shows starring this actor"
-msgstr "按下以查看该演员主演的影视剧"
+msgstr "按“下键”可观看由该演员主演的电影和电视节目"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31299"
@@ -1528,7 +1531,7 @@ msgstr "信息正在加载"
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31300"
 msgid "Mirror list alignment"
-msgstr "镜像列表对齐"
+msgstr "同步列表对齐"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31301"
@@ -1550,10 +1553,11 @@ msgctxt "#31304"
 msgid "Override song list layout with basic track naming template"
 msgstr "使用基本曲目命名模板覆盖歌曲列表布局"
 
+# FlixArt（影视艺术图） - 专为info dialog（媒体信息框）设计的电影文化元素视觉素材
 #: /1080i/Includes_Items.xml
 msgctxt "#31305"
 msgid "FlixArt in info dialog"
-msgstr "在信息对话框中显示FlixArt"
+msgstr "在信息对话框中显示影视艺术图"
 
 #: /1080i/Custom_1121_Hub_TMDb_TVShows.xml
 msgctxt "#31306"
@@ -1598,12 +1602,12 @@ msgstr "即将上映"
 #: /shortcuts/overrides.xml
 msgctxt "#31314"
 msgid "Hub - Movies (TMDbHelper)"
-msgstr "Hub - 电影 (TMDbHelper)"
+msgstr "分类中心 - 电影 (TMDbHelper)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31315"
 msgid "Hub - TV Shows (TMDbHelper)"
-msgstr "Hub - 电视剧 (TMDbHelper)"
+msgstr "分类中心 - 电视剧 (TMDbHelper)"
 
 #: /1080i/Custom_1122_Hub_TMDb_Mixed.xml
 msgctxt "#31316"
@@ -1653,7 +1657,7 @@ msgstr "背景"
 #: /1080i/Includes_Items.xml
 msgctxt "#31325"
 msgid "Expanded widget artwork"
-msgstr "扩展部件艺术图案"
+msgstr "扩展小组件艺术图"
 
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31326"
@@ -1668,27 +1672,27 @@ msgstr "扩展"
 #: /shortcuts/overrides.xml
 msgctxt "#31328"
 msgid "Hub - Movies (Library)"
-msgstr "Hub - 电影 (媒体库)"
+msgstr "分类中心 - 电影 (媒体库)"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31329"
 msgid "Hub - TV Shows (Library)"
-msgstr "Hub - 电视剧 (媒体库)"
+msgstr "分类中心 - 电视剧 (媒体库)"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31330"
 msgid "Widget end row action"
-msgstr "部件结束行动"
+msgstr "小组件结束行动"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31331"
 msgid "Hub - TMDbHelper (Discover)"
-msgstr "Hub - 发现 (TMDbHelper)"
+msgstr "分类中心 - 发现 (TMDbHelper)"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31332"
 msgid "TMDbHelper hub quick navbar"
-msgstr "TMDbHelper Hub快速导航栏"
+msgstr "TMDbHelper Hub 快速导航栏"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31333"
@@ -1723,12 +1727,12 @@ msgstr "文件名源图标"
 #: /1080i/SkinSettings.xml
 msgctxt "#31339"
 msgid "Focus buttons when opening info dialog"
-msgstr "打开信息对话框时聚焦按钮"
+msgstr "打开信息对话框时自动聚焦按钮"
 
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31340"
 msgid "Wrap long titles"
-msgstr "折行长标题"
+msgstr "长标题折行"
 
 #: /1080i/Includes_DialogInfo.xml
 msgctxt "#31341"
@@ -1758,7 +1762,7 @@ msgstr "大海报列表"
 #: /1080i/MusicOSD.xml
 msgctxt "#31346"
 msgid "Press down for more by this artist"
-msgstr "按下以查看更多该艺术家的内容"
+msgstr "按“下键”可查看更多该艺术家的作品"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31347"
@@ -1768,12 +1772,12 @@ msgstr "发光"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31348"
 msgid "Press down for channel EPG"
-msgstr "按下以查看频道电子节目指南"
+msgstr "按“下键”可查看频道电子节目指南"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31349"
 msgid "Swap info button for options on fullscreen fanart widgets"
-msgstr "在全屏同人画小部件上交换信息按钮和选项"
+msgstr "在全屏同人画小组件上交换信息按钮和选项"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31350"
@@ -1783,12 +1787,12 @@ msgstr "感谢"
 #: /1080i/Includes_Views_Row.xml
 msgctxt "#31351"
 msgid "Big Square Row"
-msgstr "大正方形行"
+msgstr "大方形行"
 
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31352"
 msgid "Big Square Wall"
-msgstr "大正方形墙"
+msgstr "大方形墙"
 
 #: /1080i/Includes_Labels.xml
 msgctxt "#31353"
@@ -1803,12 +1807,12 @@ msgstr "打开群组切换器"
 #: /1080i/SkinSettings.xml
 msgctxt "#31355"
 msgid "Press back from EPG"
-msgstr "从EPG返回"
+msgstr "从 EPG 返回"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31356"
 msgid "Expanded widget style"
-msgstr "扩展小部件样式"
+msgstr "扩展小组件样式"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31357"
@@ -1848,27 +1852,27 @@ msgstr "播放列表媒体信息"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31364"
 msgid "Hub fullscreen widget"
-msgstr "Hub全屏小部件"
+msgstr "分类中心全屏小组件"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31365"
 msgid "Hub submenu node"
-msgstr "Hub子菜单节点"
+msgstr "分类中心子菜单节点"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31366"
 msgid "Hub widget nodes"
-msgstr "Hub小部件节点"
+msgstr "分类中心小组件节点"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31367"
 msgid "Hub - Custom"
-msgstr "Hub自定义"
+msgstr "分类中心自定义"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31368"
 msgid "Customise hub"
-msgstr "自定义Hub"
+msgstr "自定义分类中心"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31369"
@@ -1883,7 +1887,7 @@ msgstr "从主菜单向左"
 #: /shortcuts/overrides.xml
 msgctxt "#31371"
 msgid "Stacked - Displays folder of item focused in widget above"
-msgstr "堆叠 - 在上面的小部件中聚焦的元素的文件夹"
+msgstr "堆叠 - 显示上方小组件中聚光灯项的文件夹"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31372"
@@ -1908,32 +1912,33 @@ msgstr "收藏浏览器"
 #: /1080i/SkinSettings.xml
 msgctxt "#31376"
 msgid "Default menu position (starts at 0)"
-msgstr "默认菜单位置（从0开始）"
+msgstr "默认菜单位置（从 0 开始）"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31377"
 msgid "Standard widgets have header furniture and navigation hints"
-msgstr "标准小部件有标题和导航提示"
+msgstr "标准小组件有标题和导航提示"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31378"
 msgid "Auto pop-up OSD dialogs"
-msgstr "自动弹出OSD对话框"
+msgstr "自动弹出 OSD 对话框"
 
 #: /1080i/Custom_1144_OSD_SubtitleStreams.xml
 msgctxt "#31379"
 msgid "No streams available"
 msgstr "没有可用的流"
 
+# 缩小标题文字与情节简介文本框的显示宽度
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31380"
 msgid "Reduce title and plot width"
-msgstr "减小标题和情节宽度"
+msgstr "缩减标题与情节简介宽度"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31381"
 msgid "Weather - Only available as fullscreen widget"
-msgstr "天气 - 仅作为全屏小部件提供"
+msgstr "天气 - 仅作为全屏小组件提供"
 
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31382"
@@ -1943,7 +1948,7 @@ msgstr "菜单向上按键操作"
 #: /1080i/SkinSettings.xml
 msgctxt "#31383"
 msgid "Prefer landscape art"
-msgstr "更喜欢横向画面"
+msgstr "优先使用横版艺术图"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31384"
@@ -1954,3 +1959,28 @@ msgstr "媒体信息海报"
 msgctxt "#31385"
 msgid "Custom genre icon folder"
 msgstr "自定义风格图标文件夹"
+
+#: /1080i/Includes_Labels.xml
+msgctxt "#31386"
+msgid "Unwatched only"
+msgstr "仅限未观看"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31387"
+msgid "Select + X"
+msgstr "Select + X"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31388"
+msgid "Select + Start"
+msgstr "Select + Start"
+
+#: /1080i/Includes_Items.xml
+msgctxt "#31389"
+msgid "Select + Right Stick"
+msgstr "Select + Right Stick"
+
+#: /1080i/GameOSD.xml
+msgctxt "#31390"
+msgid "Game menu"
+msgstr "游戏菜单"
