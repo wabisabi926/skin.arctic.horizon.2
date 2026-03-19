@@ -1371,12 +1371,12 @@ msgstr "结束"
 #: /1080i/SkinSettings.xml
 msgctxt "#31268"
 msgid "Customise infoline"
-msgstr "自定义信息行"
+msgstr "自定义信息栏"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31269"
 msgid "Infoline"
-msgstr "信息行"
+msgstr "信息栏"
 
 #: /1080i/Items.xml
 msgctxt "#31270"
