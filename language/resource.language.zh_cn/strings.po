@@ -75,7 +75,7 @@ msgstr "透明艺术图"
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31011"
 msgid "Small Fanart"
-msgstr "小同人画"
+msgstr "小背景图"
 
 # 主视觉艺术
 #: /1080i/Custom_Backgrounds_1112.xml
@@ -136,7 +136,7 @@ msgstr "项目"
 #: /1080i/Objects.xml
 msgctxt "#31023"
 msgid "Loading"
-msgstr "加载中"
+msgstr "正在加载"
 
 #: /1080i/Labels.xml
 msgctxt "#31024"
@@ -236,7 +236,7 @@ msgstr "发现"
 #: /1080i/Custom_Colors_1111.xml
 msgctxt "#31043"
 msgid "Flat (No Gradient)"
-msgstr "平面(无渐变)"
+msgstr "平面1（无渐变）"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31044"
@@ -586,7 +586,7 @@ msgstr "海报行"
 #: /1080i/Views_Row.xml
 msgctxt "#31112"
 msgid "Landscape Row"
-msgstr "横向展示行"
+msgstr "横版行"
 
 #: /1080i/Views_Row.xml
 msgctxt "#31113"
@@ -606,7 +606,7 @@ msgstr "海报墙"
 #: /1080i/Views_Wall.xml
 msgctxt "#31116"
 msgid "Landscape Wall"
-msgstr "横向展示墙"
+msgstr "横版墙"
 
 #: /1080i/Views_Wall.xml
 msgctxt "#31117"
@@ -621,7 +621,7 @@ msgstr "海报组合"
 #: /1080i/Views_Combined.xml
 msgctxt "#31119"
 msgid "Landscape Combined"
-msgstr "横向展示组合"
+msgstr "横版组合"
 
 #: /1080i/Views_Combined.xml
 msgctxt "#31120"
@@ -636,7 +636,7 @@ msgstr "方形列表"
 #: /1080i/Views_List.xml
 msgctxt "#31122"
 msgid "Landscape List"
-msgstr "横向展示列表"
+msgstr "横版列表"
 
 #: /1080i/Views_List.xml
 msgctxt "#31123"
@@ -751,7 +751,7 @@ msgstr "方形信息列表"
 #: /1080i/Views_List.xml
 msgctxt "#31144"
 msgid "Landscape Infolist"
-msgstr "横向展示信息列表"
+msgstr "横版信息列表"
 
 #: /1080i/Custom_1198_Startup.xml
 msgctxt "#31145"
@@ -771,17 +771,17 @@ msgstr "已播出"
 #: /1080i/Views_Combined.xml
 msgctxt "#31148"
 msgid "Big Landscape Combined"
-msgstr "大横向展示组合"
+msgstr "大横版组合"
 
 #: /1080i/Views_Row.xml
 msgctxt "#31149"
 msgid "Big Landscape Row"
-msgstr "大横向展示行"
+msgstr "大横版行"
 
 #: /1080i/Views_Wall.xml
 msgctxt "#31150"
 msgid "Big Landscape Wall"
-msgstr "大横向展示墙"
+msgstr "大横版墙"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31151"
@@ -856,17 +856,17 @@ msgstr "水平"
 #: /1080i/Custom_1112_Backgrounds.xml
 msgctxt "#31165"
 msgid "Experimental"
-msgstr "实验性的"
+msgstr "实验性"
 
 #: /shortcuts/videos-1.DATA.xml
 msgctxt "#31166"
 msgid "Popular"
-msgstr "流行的"
+msgstr "流行"
 
 #: /shortcuts/videos-1.DATA.xml
 msgctxt "#31167"
 msgid "Anticipated"
-msgstr "预期的"
+msgstr "预期"
 
 #: /shortcuts/searchmenu.DATA.xml
 msgctxt "#31168"
@@ -926,7 +926,7 @@ msgstr "打开子菜单"
 #: /1080i/SkinSettings.xml
 msgctxt "#31179"
 msgid "Press up from home menu"
-msgstr "从主菜单按上键"
+msgstr "从主菜单按“上键”"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31180"
@@ -1081,7 +1081,7 @@ msgstr "彩色叠加层"
 #: /1080i/Items.xml
 msgctxt "#31210"
 msgid "Animate fanart"
-msgstr "动漫同人画"
+msgstr "动漫背景图"
 
 #: /1080i/Items.xml
 msgctxt "#31211"
@@ -1161,7 +1161,7 @@ msgstr "导演"
 #: /1080i/SkinSettings.xml
 msgctxt "#31226"
 msgid "Extra fanart"
-msgstr "额外同人画"
+msgstr "额外背景图"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31227"
@@ -1396,7 +1396,7 @@ msgstr "延迟后自动在大海报行上显示信息"
 #: /1080i/SkinSettings.xml
 msgctxt "#31273"
 msgid "Text labels on big landscape viewtypes"
-msgstr "在大横向展示视图类型中显示文本标签"
+msgstr "在大横版视图类型中显示文本标签"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31274"
@@ -1777,12 +1777,12 @@ msgstr "按“下键”可查看频道电子节目指南"
 #: /1080i/SkinSettings.xml
 msgctxt "#31349"
 msgid "Swap info button for options on fullscreen fanart widgets"
-msgstr "在全屏同人画小组件上交换信息按钮和选项"
+msgstr "在全屏背景图小组件上交换信息按钮和选项"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31350"
 msgid "Thanks"
-msgstr "感谢"
+msgstr "致谢"
 
 #: /1080i/Includes_Views_Row.xml
 msgctxt "#31351"
@@ -1912,7 +1912,7 @@ msgstr "收藏浏览器"
 #: /1080i/SkinSettings.xml
 msgctxt "#31376"
 msgid "Default menu position (starts at 0)"
-msgstr "默认菜单位置（从0开始）"
+msgstr "默认菜单位置（从 0 开始）"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31377"
@@ -1943,7 +1943,7 @@ msgstr "天气 - 仅作为全屏小组件提供"
 #: /1080i/script-skinshortcuts.xml
 msgctxt "#31382"
 msgid "Menu press up action"
-msgstr "菜单向上按键操作"
+msgstr "菜单按“上键”操作"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31383"
